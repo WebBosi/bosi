@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.productVitrine .contentImg .tags .flag.tag-2x3-dic2021 {
+    position: absolute;
+    left: 0;
+    background: url(https://bosico.vteximg.com.br/arquivos/flag-2x3.png) no-repeat scroll 0 0/100%;
+    text-indent: 0;
+    font-size: 0;
+    height: 48px !important;
+    width: 48px !important;
+    opacity: 1 !important;
+    background-color: transparent !important;
+}
+
+
+
